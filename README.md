@@ -6,4 +6,4 @@ I'm a Self-Driven, Result-oriented and a quick learner with a focused mindset an
 - 📫 Reach me at : hatimali.ha@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hatim-ali-kanchwala/
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=the-hatim&repo=the-hatim.github.io&countColorcountColor&countColor=%237B1E7A)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=the-hatim&repo=MForensics&countColorcountColor&countColor=%237B1E7A)
