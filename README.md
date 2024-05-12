@@ -6,4 +6,4 @@ I'm a Self-Driven, Result-oriented and a quick learner with a focused mindset an
 - 💻 Domains of Interest: Software Development, Software Testing, Cybersecurity, Data Analytics
 - 👤 LinkedIn: https://www.linkedin.com/in/hatim-ali-kanchwala/
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=thehatim&repo=thehatim&countColor=%23313131&label=profile%20visit%20count)
+![](https://api.visitorbadge.io/api/VisitorHit?user=thehatim&repo=thehatim&countColor=%4a72e0&label=profile%20visit%20count)
