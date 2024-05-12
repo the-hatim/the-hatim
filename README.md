@@ -2,7 +2,7 @@
 
 I'm a Self-Driven, Result-oriented and a quick learner with a focused mindset and varied technical skills. Critical thinker with a problem-solving attitude and a knack for continuous learning and professional development.
 
-- 🔭 Currently Working in the Automotive Industry towards a Sustainable Future.
+- 🔭 Current Status: Working in the automotive industry towards a better sustainable future.
 - 💻 Domains of Interest: Software Engineering, DevOps, Cybersecurity.
 - 👤 LinkedIn: https://www.linkedin.com/in/hatim-ali-kanchwala/
 
